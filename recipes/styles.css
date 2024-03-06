@@ -1,0 +1,23 @@
+body {
+    background-color: #445cc2;
+    color: white;
+    font-family: "Times New Roman", serif;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+.hgcj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+  }
+
+.qbsfj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+  }

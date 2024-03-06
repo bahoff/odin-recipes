@@ -1,0 +1,19 @@
+body {
+  background-color: #445cc2;
+  color: white;
+  font-family: "Times New Roman", serif;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+  border-color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
